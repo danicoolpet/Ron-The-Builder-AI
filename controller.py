@@ -11,7 +11,7 @@ import requests
 
 class RobloxAIController:
     def __init__(self):
-        self.github_url = "https://YOUR_USERNAME.github.io/roblox-ai-assistant"
+        self.github_url = "https://danicoolpet.github.io/roblox-ai-assistant"
         self.running = False
     
     def start(self):
